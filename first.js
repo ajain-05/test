@@ -33,8 +33,6 @@ const termsAndConditions = [
     { T1: "Shameless Plugging", T2: "Promoting personal YouTube or Instagram channels is discouraged.", T3: "Unless you have a million subscribers, nobody cares." },
     { T1: "Mystery Rules", T2: "Some rules may or may not exist.", T3: "You will only find out if you break them." },
     { T1: "Slow Clap", T2: "Timed slow claps must be well-coordinated.", T3: "Unplanned slow claps will cause mass confusion." },
-    { T1: "Final Rule", T2: "If you've read this far, congratulations!", T3: "No one reads this deep, so claim your secret prize at the DJ booth (just kidding)." },
-
     { T1: "Eligibility", T2: "Only registered students of the institution are allowed to attend the Fresher’s Party.", T3: "Attendees must carry their valid student ID for verification." },
     { T1: "Registration", T2: "All attendees must complete the registration form before the deadline.", T3: "Registration is non-transferable and non-refundable under any circumstances." },
     { T1: "Entry Rules", T2: "Entry is permitted only within the specified time; late arrivals may be denied access.", T3: "Re-entry is not allowed once you leave the venue." },
@@ -68,8 +66,6 @@ const termsAndConditions = [
     { T1: "Shameless Plugging", T2: "Promoting personal YouTube or Instagram channels is discouraged.", T3: "Unless you have a million subscribers, nobody cares." },
     { T1: "Mystery Rules", T2: "Some rules may or may not exist.", T3: "You will only find out if you break them." },
     { T1: "Slow Clap", T2: "Timed slow claps must be well-coordinated.", T3: "Unplanned slow claps will cause mass confusion." },
-    { T1: "Final Rule", T2: "If you've read this far, congratulations!", T3: "No one reads this deep, so claim your secret prize at the DJ booth (just kidding)." },
-
     { T1: "Eligibility", T2: "Only registered students of the institution are allowed to attend the Fresher’s Party.", T3: "Attendees must carry their valid student ID for verification." },
     { T1: "Registration", T2: "All attendees must complete the registration form before the deadline.", T3: "Registration is non-transferable and non-refundable under any circumstances." },
     { T1: "Entry Rules", T2: "Entry is permitted only within the specified time; late arrivals may be denied access.", T3: "Re-entry is not allowed once you leave the venue." },
@@ -103,7 +99,7 @@ const termsAndConditions = [
     { T1: "Shameless Plugging", T2: "Promoting personal YouTube or Instagram channels is discouraged.", T3: "Unless you have a million subscribers, nobody cares." },
     { T1: "Mystery Rules", T2: "Some rules may or may not exist.", T3: "You will only find out if you break them." },
     { T1: "Slow Clap", T2: "Timed slow claps must be well-coordinated.", T3: "Unplanned slow claps will cause mass confusion." },
-    { T1: "Final Rule", T2: "If you've read this far, congratulations!", T3: "No one reads this deep, so claim your secret prize at the DJ booth (just kidding)." }
+    { T1: "Final Rule",T2: "Your data will be handled by our expert technical team.",T3: "We prioritize your data privacy like a cat guarding its favorite spot. However, if your data somehow sneaks out and finds its way to a third party, our technical team won’t be held responsible—let’s just say, it wasn’t us! 😇" }
   ];
 
 
