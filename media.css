@@ -1,0 +1,17 @@
+@media(max-width:426px){
+    .headingH1{
+        margin-top: 2vw;
+        font-size: 5vw;
+    }
+    
+    .category_h2{
+        margin-left: 5vw;
+        font-size: 4vw;
+    }
+    
+    .para{
+        margin-left: 5vw;
+        font-size:3.5vw;
+    }
+    
+}
